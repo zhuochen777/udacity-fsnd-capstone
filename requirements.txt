@@ -23,3 +23,4 @@ SQLAlchemy==1.4.46
 typed-ast==1.4.2
 Werkzeug==0.15.6
 wrapt==1.11.1
+gunicorn==20.1.0
